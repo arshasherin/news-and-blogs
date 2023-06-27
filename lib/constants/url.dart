@@ -1,0 +1,1 @@
+const imageUrl = "https://milliondotsadmin.noviindus.co.in";
